@@ -1,2 +1,2 @@
 # wxResume
-wx stemp and product
+wx try and challenge
